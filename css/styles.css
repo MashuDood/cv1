@@ -1,0 +1,43 @@
+
+    body {
+      background-color: #C4DDFF;
+    }
+
+    hr {
+      border-style:none;
+      border-top-style: dotted;
+      border-width: 10px;
+      border-color: #FEE2C5;
+      width: 10%;
+    }
+
+    img {
+      border-radius: 12%;
+    }
+
+    h1 {
+      color: #7FB5FF;
+      font-family: Arial;
+    }
+
+
+    h2 {
+      color: #7FB5FF;
+    }
+
+    h3 {
+      color: #7FB5FF;
+    }
+
+    p {
+      color: #001D6E;
+    }
+
+    p:hover {
+      color: #000000;
+    }
+
+    .rounds {
+      height: 300px;
+      border-radius: 50%;
+    }
